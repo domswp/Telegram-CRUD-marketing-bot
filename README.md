@@ -15,7 +15,7 @@ Proyek yang saya bikin di 2020, fungsi bot ini adalah mengisi spreadsheet google
 
 ## Penggunaan
 
-1. Jalankan bot dengan menjalankan `python bot.py`.
+1. Jalankan bot dengan menjalankan `bot_CRUD_Marketing_Telegram.py`.
 2. Mulai obrolan dengan bot di Telegram dan ketik `/start` untuk memulai pengisian data.
 3. Bot akan meminta Anda untuk memasukkan data sesuai instruksi yang diberikan.
 
